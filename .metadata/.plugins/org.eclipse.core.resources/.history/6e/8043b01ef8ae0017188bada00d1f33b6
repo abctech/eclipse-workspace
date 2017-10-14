@@ -1,0 +1,18 @@
+package com.projeto.operadoresjava;
+
+public class Operadores {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int primeiro =10 ;
+		int segundo = 2 ;
+		int resultado = 0;
+		
+		resultado = primeiro + segundo;
+		
+		System.out.println(resultado);
+	
+
+	}
+
+}

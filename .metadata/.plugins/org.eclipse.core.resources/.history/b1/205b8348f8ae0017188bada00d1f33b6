@@ -1,0 +1,30 @@
+package com.projeto.operadoresjava;
+
+public class Operadores {
+	
+	// somar (+)
+	// Subtrair (-)
+	// Multiplicação (*)
+	// divisão (?) 
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int primeiro =10 ;
+		int segundo = 2 ;
+		int resultado = 0;
+		int resultado1 = 0;
+		int resultado2 = 0;
+		int resultado3 = 0;
+		resultado = primeiro + segundo;
+		resultado1 = primeiro - segundo;
+		resultado2 = primeiro * segundo;
+		resultado3 = primeiro / segundo;
+		
+		System.out.println(resultado,"Soma");
+		System.out.println(resultado1);
+		System.out.println(resultado2);
+		System.out.println(resultado3);
+
+	}
+
+}

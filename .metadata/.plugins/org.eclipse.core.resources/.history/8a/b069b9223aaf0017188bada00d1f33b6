@@ -1,0 +1,10 @@
+package com.projetos.condicionais;
+
+public class Condicional {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

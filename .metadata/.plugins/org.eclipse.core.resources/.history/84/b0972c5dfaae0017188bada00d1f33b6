@@ -1,0 +1,15 @@
+package com.projeto.operadores;
+
+public class Operador {
+
+		// == (Igual)
+	
+	public static void main(String[] args) {
+	
+		boolean resultado;
+		
+		resultado = 5 ==5;
+
+	}
+
+}

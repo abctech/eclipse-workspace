@@ -1,0 +1,21 @@
+package com.projeto.operadores;
+
+public class Operador {
+
+		// == (Igual)
+		// != (diferente)
+		// > (Maior)
+		// >= ( Maior ou igual
+	
+	public static void main(String[] args) {
+	
+		boolean resultado;
+		int numero1 = 6;
+		int numero2 = 6;
+		resultado = numero1 >= numero2;
+		
+		System.out.println(resultado);
+
+	}
+
+}
